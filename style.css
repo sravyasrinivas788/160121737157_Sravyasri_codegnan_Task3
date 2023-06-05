@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-image: url(patient_registration_form_template_Thumbnail.png);
+    background-size: cover;
+}
+.one{
+    padding-right: 30%;
+}
+.two{
+    padding-right: 30%;
+}
+
+.submit{
+    color: black;
+    background-color: burlywood;
+    width: 7%;
+    height: 10%;
+    
+}
+.add{
+    padding-top: 2%;
+    padding-right: 30%;
+}
+.three{
+    padding-right: 30%;
+    padding-top: 5%;
+}
+h2{
+    color: brown;
+
+}
